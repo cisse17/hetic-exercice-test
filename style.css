@@ -1,0 +1,42 @@
+body{
+	font-family: Arial, sans-serif;
+}
+main{
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+main img{
+	max-width: 100%;
+	margin-bottom: 40px;
+}
+main h1{
+	font-size: 46px;
+	font-weight: bold;
+	margin-bottom: 40px;
+}
+main p{
+	line-height: 2; /* Par defaut en 'em', si on ne met rien apres le nombre*/
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
